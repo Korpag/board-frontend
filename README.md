@@ -1,16 +1,25 @@
-# boards
+# **Проект - Board**
 
-управление проектами
+## Подготовка к запуску
 
-## Getting Started
+### 1. Обновление зависимостей пакетов
+```
+flutter pub get
+```
+### 2. Запуск проекта
+```
+flutter run -d chrome
+```
+## Визуальная демонстрация
+![image](https://user-images.githubusercontent.com/79331026/189105201-d71d642d-fd88-455a-a2b8-000183db8c48.png)
+____________
 
-This project is a starting point for a Flutter application.
+![image](https://user-images.githubusercontent.com/79331026/189105494-68ad5ec6-4fff-4e9c-9138-bcd616a13216.png)
+____________
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://user-images.githubusercontent.com/79331026/189105668-a95e9216-83fc-426d-a157-da576d323639.png)
+## Описание проекта
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### **Board - будущий сервис для управления проектами, который впитает в себя самый лучший и полезный функционал, оставив старые и неудобные практики за бортом.** 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##
